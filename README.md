@@ -1,2 +1,1 @@
-# Mini-Calculator
-my first repository
+A simple calculator app built with HTML, CSS, and JavaScript.
